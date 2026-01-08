@@ -62,5 +62,7 @@ Keras: A high-level neural networks API integrated into Tensorflow
 
 For detailed blog check this out! https://github.com/e-shen2022/APCS_Blog/blob/master/_notebooks/2023-05-14-N%40M.ipynb
 
+<h2>#4 Testing</h2>
 
+This project includes comprehensive testing to ensure model accuracy and reliability.
 
