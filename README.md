@@ -38,7 +38,7 @@ We will be filling in the emojis folder later. This is all you need to set up fo
 
 OpenCV: Otherwie known as Open Source Computer Vision. A library that provides a set of tools/functions to process/analyze images and videos
 
-Numpy: Python library that allows us to use multi-dimensional rrays to store large datasets and use optimized mathematical functions for data analysis
+Numpy: Python library that allows us to use multi-dimensional arrays to store large datasets and use optimized mathematical functions for data analysis
 
 Tensorflow: A very useful tool for machine learning. Takes data, builds a model, trains it, and then lets us use the trained model to make predictions!
 
